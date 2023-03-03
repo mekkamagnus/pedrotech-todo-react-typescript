@@ -1,0 +1,11 @@
+
+* Overview 
+Video: [[https://www.youtube.com/watch?v=bjnW2NLAofI][Todo List in ReactJS using TypeScript Tutorial]] 
+Tutorial Code: [[https://github.com/machadop1407/TodoList-React-TypeScript][machadop1407/TodoList-React-TypeScript]] 
+
+* npm start
+Runs the app in development mode.
+Open http://localhost:3000 to view it in the browser
+- [ ] Switch out Arrow functions.
+  - I'd like to make sure I trully understand the use of types in both forms of functions
+
